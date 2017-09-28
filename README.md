@@ -123,7 +123,7 @@ Veja como [contribuir](CONTRIBUTING.md).
 [Ir para o índice](#Índice)
 
 <h6 align="center">
-	<a href="https://github.com/mswell/aprenda-python/blob/master/LICENSE.md">MIT</a>
+	<a href="https://github.com/mswell/aprenda-python/blob/master/LICENSE">MIT</a>
 	©
 	Wellington Moraes
 </h6>
